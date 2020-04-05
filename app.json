@@ -1,0 +1,11 @@
+{
+  "name": "Practical Sign in with Apple Sample",
+  "description": "A example to create Auto Fill sign up form",
+  "repository": "https://github.com/sarunw/practical-siwa-existing-user",
+  "env": {
+    "APP_ID": {
+      "description": "<Application Identifier Prefix>.<Bundle Identifier>",
+      "required": true
+    }
+  }
+}

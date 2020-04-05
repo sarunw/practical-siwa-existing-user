@@ -1,24 +1,9 @@
-# README
+# Practical Sign in with Apple
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Chapter 6: Handle existing users
 
-Things you may want to cover:
+This is the sample project that accompanies **Sign in with Apple** book.
 
-* Ruby version
+Click the following button to initiate the deployment to Heroku. The rest of the instruction is in the book.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarunw/practical-siwa-existing-user)
